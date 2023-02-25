@@ -1,0 +1,99 @@
+Car_Name|CAGR%|Year Gap
+ciaz|380.0|3.0
+brio|278.3018867924528|5.0
+grand i10|272.43589743589746|4.0
+eon|232.72727272727275|5.0
+jazz|220.74074074074073|7.0
+ertiga|219.16666666666663|2.0
+city|205.99078341013825|11.0
+innova|192.7710843373494|12.0
+sx4|177.35849056603777|10.0
+Bajaj Pulsar 150|174.99999999999997|9.0
+Honda CB Hornet 160R|158.33333333333334|1.0
+etios liva|152.17391304347822|3.0
+fortuner|142.12499999999997|7.0
+i20|136.20689655172413|7.0
+swift|130.12048192771084|6.0
+corolla altis|129.36170212765956|9.0
+Bajaj Avenger 220|129.16666666666666|1.0
+verna|120.15503875968992|5.0
+creta|114.66666666666666|1.0
+etios cross|83.67346938775509|1.0
+dzire|77.77777777777779|6.0
+Royal Enfield Thunder 500|59.09090909090908|3.0
+alto k10|39.743589743589745|6.0
+KTM RC200|37.5|1.0
+wagon r|34.285714285714285|9.0
+Bajaj Discover 125|33.33333333333335|1.0
+ritz|31.914893617021274|3.0
+Royal Enfield Classic 350|30.000000000000004|4.0
+Royal Enfield Thunder 350|29.33333333333332|5.0
+i10|29.032258064516125|2.0
+Honda CB Shine|25.0|6.0
+Activa 3g|20.58823529411765|8.0
+Honda CB twister|18.75|3.0
+TVS Apache RTR 160|18.25396825396826|5.0
+Honda Karizma|12.903225806451607|1.0
+Hero Passion Pro|12.499999999999996|1.0
+Hero Splender iSmart|12.499999999999996|1.0
+xcent|10.526315789473683|3.0
+Honda CBR 150|8.333333333333341|1.0
+Bajaj Avenger 220 dtsi|6.666666666666665|5.0
+Royal Enfield Classic 500|1.8518518518518494|3.0
+Bajaj Pulsar 135 LS|0.0|0.0
+corolla|0.0|0.0
+Hero Honda CBZ extreme|0.0|0.0
+Hero Glamour|0.0|0.0
+Hero Extreme|0.0|1.0
+elantra|0.0|0.0
+Hero  Ignitor Disc|0.0|0.0
+Hero  CBZ Xtreme|0.0|0.0
+Bajaj Pulsar RS200|0.0|0.0
+etios g|0.0|1.0
+etios gd|0.0|0.0
+Bajaj Pulsar NS 200|0.0|1.0
+Bajaj Pulsar 220 F|0.0|6.0
+Honda Dream Yuga |0.0|0.0
+Bajaj Pulsar  NS 200|0.0|0.0
+Hero Honda Passion Pro|0.0|0.0
+ignis|0.0|0.0
+Bajaj Discover 100|0.0|0.0
+Bajaj Avenger Street 220|0.0|0.0
+land cruiser|0.0|0.0
+omni|0.0|0.0
+s cross|0.0|0.0
+Bajaj Avenger 150 street|0.0|0.0
+Bajaj Avenger 150|0.0|0.0
+Bajaj  ct 100|0.0|0.0
+vitara brezza|0.0|0.0
+Activa 4g|0.0|0.0
+Bajaj Dominar 400|0.0|0.0
+Hero Hunk|0.0|0.0
+camry|0.0|0.0
+Hero Passion X pro|0.0|0.0
+Hyosung GT250R|0.0|0.0
+KTM 390 Duke |0.0|0.0
+Honda CB Unicorn|0.0|0.0
+KTM RC390|0.0|0.0
+Mahindra Mojo XT300|0.0|0.0
+Royal Enfield Bullet 350|0.0|0.0
+Honda CB Trigger|0.0|0.0
+Honda Activa 4G|0.0|0.0
+Honda Activa 125|0.0|0.0
+Suzuki Access 125|0.0|0.0
+Hero Super Splendor|0.0|0.0
+TVS Apache RTR 180|0.0|3.0
+TVS Jupyter|0.0|0.0
+TVS Sport |0.0|0.0
+TVS Wego|0.0|0.0
+UM Renegade Mojave|0.0|0.0
+Yamaha FZ  v 2.0|0.0|1.0
+Yamaha FZ 16|0.0|0.0
+Yamaha FZ S |0.0|0.0
+Yamaha FZ S V 2.0|0.0|2.0
+Yamaha Fazer |0.0|0.0
+alto 800|0.0|0.0
+Hero Splender Plus|0.0|0.0
+amaze|0.0|1.0
+baleno|0.0|0.0
+800|0.0|0.0
